@@ -1,0 +1,32 @@
+timestamp,incident_id,action_taken,status,notes
+2025-05-30 13:30:57,Device_10177,Auto-Isolated due to high anomaly and policy breach
+2025-05-30 13:30:57,Device_10186,Auto-Isolated due to high anomaly and policy breach
+2025-05-30 13:30:57,Device_10188,Auto-Isolated due to high anomaly and policy breach
+2025-05-30 13:31:13,Device_2,Auto-Isolated due to high anomaly and policy breach
+2025-05-30 13:31:13,Device_13,Auto-Isolated due to high anomaly and policy breach
+2025-05-30 14:28:41,Device_10177,Auto-Isolated due to high anomaly and policy breach
+2025-05-30 14:28:41,Device_10186,Auto-Isolated due to high anomaly and policy breach
+2025-05-30 14:28:41,Device_10188,Auto-Isolated due to high anomaly and policy breach
+2025-05-30 14:28:51,Device_10177,Auto-Isolated due to high anomaly and policy breach
+2025-05-30 14:28:51,Device_10186,Auto-Isolated due to high anomaly and policy breach
+2025-05-30 14:28:51,Device_10188,Auto-Isolated due to high anomaly and policy breach
+2025-05-30 14:29:01,Device_10177,Auto-Isolated due to high anomaly and policy breach
+2025-05-30 14:29:01,Device_10186,Auto-Isolated due to high anomaly and policy breach
+2025-05-30 14:29:01,Device_10188,Auto-Isolated due to high anomaly and policy breach
+2025-05-30 14:29:11,Device_10177,Auto-Isolated due to high anomaly and policy breach
+2025-05-30 14:29:11,Device_10186,Auto-Isolated due to high anomaly and policy breach
+2025-05-30 14:29:11,Device_10188,Auto-Isolated due to high anomaly and policy breach
+2025-05-30 14:29:22,Device_10177,Auto-Isolated due to high anomaly and policy breach
+2025-05-30 14:29:22,Device_10186,Auto-Isolated due to high anomaly and policy breach
+2025-05-30 14:29:22,Device_10188,Auto-Isolated due to high anomaly and policy breach
+2025-05-30 14:29:32,Device_10177,Auto-Isolated due to high anomaly and policy breach
+2025-05-30 14:29:32,Device_10186,Auto-Isolated due to high anomaly and policy breach
+2025-05-30 14:29:32,Device_10188,Auto-Isolated due to high anomaly and policy breach
+2025-06-01 17:24:14.430594,test_device_1,0.96,3,Quarantined
+2025-06-01 17:25:15.232304,test_device_13,0.90,3,Quarantined
+2025-06-01 17:25:20.221922,test_device_14,0.96,3,Quarantined
+2025-06-01 17:25:34.451482,test_device_17,0.92,3,Quarantined
+2025-06-01 17:26:05.104989,test_device_23,0.95,3,Quarantined
+2025-06-01 17:26:24.587083,test_device_27,0.90,3,Quarantined
+2025-06-01 17:28:10.435425,device_9,0.93,3,Quarantined
+2025-06-01 17:29:01.694829,device_19,0.94,2,Quarantined
